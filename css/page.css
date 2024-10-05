@@ -1,0 +1,40 @@
+.fond_page{
+   background-image : url(../image/fond.jpeg);
+}
+
+.page_anime{
+  Background-color:#b1ecf9;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:1%;
+  margin-buttom:3%;
+  height:auto;
+  width:800px;
+  border: 10px groove darkblue;       
+}
+
+.resume{
+  
+  margin-top:135px;
+  margin-bottom:50px;
+}
+
+.img_a{
+  margin-left:10px;
+  margin-top:10px;
+
+}
+
+textarea {
+  resize: none;
+}
+
+.comment{
+  margin-left:auto;
+  margin-right:auto;
+  border: 5px groove black;  
+  height:50px;
+  width:780px;
+}
+
+

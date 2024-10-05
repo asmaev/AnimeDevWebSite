@@ -1,0 +1,35 @@
+
+.connexion_php{
+  font-size:larger;
+  font-family:Times, georgia, arial;
+  text-align:justify;
+  background-image : url(../image/fond.jpeg);
+}
+
+.inscription_php{
+  background-image : url(../image/fond.jpeg);
+  font-size:larger;
+  font-family:Times, georgia, arial;
+  text-align:justify;
+}
+
+.test1{
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:12%;
+  margin-bottom:30%;
+  width:500px;
+  height:220px;
+  Background-color:black;
+  border: 15px  ridge darkblue;
+  color:white;
+  
+}
+
+.btn{
+  margin-left:40%;
+}
+
+.alinea { 
+  text-indent: 150px; 
+}

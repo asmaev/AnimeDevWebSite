@@ -1,0 +1,36 @@
+
+.fond{
+  Background-image:url(../image/fond.jpeg);
+
+
+}
+.watch_list{
+  Background-color:grey;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:1%;
+  margin-buttom:3%;
+  height:auto;
+  width:800px;
+  border: 10px groove black;  
+}
+
+.image{
+
+
+  width:150px;
+  margin-left:15px;
+  margin-top:15px;
+  margin-right:20px;
+  border: 8px solid white;
+  border-radius: 4px;
+  padding: 0px;
+
+}
+
+
+.nom_anime{
+  margin-top:15px;
+  margin-left:150px;
+
+}

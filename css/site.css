@@ -1,0 +1,46 @@
+.entete{
+  margin-left:10%;
+  margin-right:10%;
+  background-color : darkblue;
+  height:150px;
+ 
+}
+
+.recherche{
+  margin-left:30%;
+}
+
+.site{
+  background-image : url(../image/fond.jpeg);
+}
+
+.img_fond{
+  background-image : url(../image/jotaro.png);
+  background-repeat: no-repeat;
+  
+  background-position: top 100% right;
+
+}
+
+.image{
+  
+  margin-left:34%;
+  margin-right:36.10%;
+  
+}
+
+.page_n{
+  margin-left:41.5%;
+  margin-right:20%;
+  
+}
+
+.bouton{
+  margin-left:80%;
+ 
+}
+
+.profil {
+  margin-left: 80%;
+
+}

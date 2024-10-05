@@ -1,0 +1,16 @@
+.res_fond{
+   background-image : url(../image/fond.jpeg);
+
+}
+
+
+.resultat{
+  margin-left:34%;
+  margin-right:35%;
+}
+
+.vide{
+  Background-color:black;
+  border: 15px  ridge darkblue;
+  color:white;
+}
